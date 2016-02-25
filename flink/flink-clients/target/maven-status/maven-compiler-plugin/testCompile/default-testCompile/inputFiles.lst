@@ -1,0 +1,15 @@
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/ClientTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/LeaderRetrievalServiceHostnameResolutionTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/ExecutionPlanCreationTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendInfoTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendListCancelTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendTestUtils.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/RemoteExecutorHostnameResolutionTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendPackageProgramTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/testjar/WordCount.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/testjar/JobWithExternalDependency.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/ClientConnectionTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/PackagedProgramTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendRunTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/CliFrontendAddressConfigurationTest.java
+/home/ubuntu/flink-0.10.2/flink-clients/src/test/java/org/apache/flink/client/program/ExecutionPlanAfterExecutionTest.java

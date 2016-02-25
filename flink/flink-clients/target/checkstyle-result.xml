@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/LocalExecutor.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/CliFrontend.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/RemoteExecutor.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/OptimizerPlanEnvironment.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/ProgramInvocationException.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/PreviewPlanEnvironment.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/PackagedProgram.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/JobWithJars.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/ContextEnvironment.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/program/Client.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/FlinkYarnSessionCli.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/JobSubmissionServlet.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/JobsServlet.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/WebInterfaceServer.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/JobJSONServlet.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/GUIServletStub.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/web/PlanDisplayServlet.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/CommandLineOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/CancelOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/InfoOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/ProgramOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/CliFrontendParser.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/ListOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/RunOptions.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/cli/CliArgsException.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/main/java/org/apache/flink/client/WebFrontend.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-clients/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>
