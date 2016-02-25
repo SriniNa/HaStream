@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopReduceFunction.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopReduceCombineFunction.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/wrapper/HadoopTupleUnwrappingIterator.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/wrapper/HadoopOutputCollector.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopRecordInputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/example/WordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/example/WordCountWithOutputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopDataSource.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/DefaultHadoopTypeConverter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/HadoopFileOutputCommitter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/FlinkTypeConverter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/DefaultFlinkTypeConverter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableWrapperConverter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableWrapper.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableComparableWrapper.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/HadoopTypeConverter.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopDataSink.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopRecordOutputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/example/HadoopMapredCompatWordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopMapFunction.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapreduce/example/WordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,12 @@
+org/apache/flink/api/avro/DataInputDecoder.class
+org/apache/flink/api/io/avro/example/User$Builder.class
+org/apache/flink/api/java/io/AvroInputFormat.class
+org/apache/flink/api/io/avro/example/AvroTypeExample$UserGeneratingInputFormat.class
+org/apache/flink/api/avro/DataOutputEncoder.class
+org/apache/flink/api/io/avro/example/User.class
+org/apache/flink/api/java/io/AvroOutputFormat.class
+org/apache/flink/api/avro/FSDataInputStreamWrapper.class
+org/apache/flink/api/io/avro/example/AvroTypeExample$NumberExtractingMapper.class
+org/apache/flink/api/io/avro/example/AvroTypeExample$ConcatenatingReducer.class
+org/apache/flink/api/io/avro/example/User$1.class
+org/apache/flink/api/io/avro/example/AvroTypeExample.class

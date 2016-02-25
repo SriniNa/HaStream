@@ -1,0 +1,17 @@
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Contributors.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Entities.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/CurrentUserRetweet.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/io/SimpleTweetInputFormat.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/BoundingBox.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/URL.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/HashTags.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Symbol.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Media.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Size.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/Attributes.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/io/TweetHandler.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/Places.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/UserMention.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/User/Users.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Tweet.java
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Coordinates.java

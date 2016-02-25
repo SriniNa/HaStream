@@ -1,0 +1,5 @@
+#Thu Feb 25 15:17:27 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-rabbitmq/src/main/java/org/apache/flink/streaming/connectors/rabbitmq/RMQTopology.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-rabbitmq/src/main/java/org/apache/flink/streaming/connectors/rabbitmq/RMQSource.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-rabbitmq/src/main/java/org/apache/flink/streaming/connectors/rabbitmq/RMQSink.java=1454942573000
+configuration*?=BC15028B3397E2E1D30966D4F822C9392177829D

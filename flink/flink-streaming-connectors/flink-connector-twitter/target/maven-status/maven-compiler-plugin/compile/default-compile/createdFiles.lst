@@ -1,0 +1,12 @@
+org/apache/flink/streaming/connectors/twitter/TwitterStreaming.class
+org/apache/flink/streaming/connectors/twitter/TwitterStreaming$TwitterSink.class
+org/apache/flink/streaming/connectors/twitter/TwitterSource.class
+org/apache/flink/streaming/connectors/twitter/TwitterTopology$SelectLanguageFlatMap.class
+org/apache/flink/streaming/connectors/json/JSONParseFlatMap.class
+org/apache/flink/streaming/connectors/twitter/TwitterFilterSource.class
+org/apache/flink/streaming/connectors/twitter/TwitterTopology$1.class
+org/apache/flink/streaming/connectors/twitter/TwitterTopology.class
+org/apache/flink/streaming/connectors/twitter/TwitterFilterSourceExample.class
+org/apache/flink/streaming/connectors/twitter/TwitterStreaming$SelectDataFlatMap.class
+org/apache/flink/streaming/connectors/twitter/TwitterFilterSourceExample$1.class
+org/apache/flink/streaming/connectors/json/JSONParser.class

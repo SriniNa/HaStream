@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/partitioner/FixedPartitioner.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/partitioner/KafkaPartitioner.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/ZookeeperOffsetHandler.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/OffsetHandler.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/Fetcher.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/PartitionerWrapper.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/ZooKeeperStringSerializer.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/LegacyFetcher.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer082.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaProducer.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer081.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/api/KafkaSink.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/api/persistent/PersistentKafkaSource.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>

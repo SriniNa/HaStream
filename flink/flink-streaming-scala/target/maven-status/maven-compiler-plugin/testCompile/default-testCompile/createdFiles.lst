@@ -1,0 +1,5 @@
+org/apache/flink/streaming/scala/api/CsvOutputFormatITCase.class
+org/apache/flink/streaming/scala/api/SocketOutputFormatITCase.class
+org/apache/flink/streaming/scala/api/TextOutputFormatITCase.class
+org/apache/flink/streaming/scala/api/CsvOutputFormatITCase$Tokenizer.class
+org/apache/flink/streaming/scala/api/StatefulFunctionITCase.class

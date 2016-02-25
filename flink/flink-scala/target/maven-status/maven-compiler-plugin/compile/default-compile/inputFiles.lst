@@ -1,0 +1,3 @@
+/home/ubuntu/flink-0.10.2/flink-scala/src/main/java/org/apache/flink/api/scala/operators/ScalaAggregateOperator.java
+/home/ubuntu/flink-0.10.2/flink-scala/src/main/java/org/apache/flink/api/scala/operators/ScalaCsvOutputFormat.java
+/home/ubuntu/flink-0.10.2/flink-scala/src/main/java/org/apache/flink/api/scala/operators/ScalaCsvInputFormat.java

@@ -1,0 +1,16 @@
+#Thu Feb 25 15:17:21 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/partitioner/FixedPartitioner.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer082.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/PartitionerWrapper.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/api/persistent/PersistentKafkaSource.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaProducer.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/ZooKeeperStringSerializer.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/api/KafkaSink.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/LegacyFetcher.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/ZookeeperOffsetHandler.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/Fetcher.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/partitioner/KafkaPartitioner.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/internals/OffsetHandler.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer081.java=1454942573000
+configuration*?=C84EB99A3D85A38EF824974B7416E726F0E406B5
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-kafka/src/main/java/org/apache/flink/streaming/connectors/kafka/FlinkKafkaConsumer.java=1454942573000

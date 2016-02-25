@@ -1,0 +1,8 @@
+org/apache/flink/contrib/streaming/DataStreamIterator$AcceptThread.class
+org/apache/flink/contrib/streaming/DataStreamUtils$CallExecute.class
+org/apache/flink/contrib/streaming/CollectSink$StreamWriterDataOutputView.class
+org/apache/flink/contrib/streaming/CollectSink.class
+org/apache/flink/contrib/streaming/DataStreamIterator.class
+org/apache/flink/contrib/streaming/DataStreamUtils.class
+org/apache/flink/contrib/streaming/DataStreamIterator$1.class
+org/apache/flink/contrib/streaming/DataStreamIterator$StreamReaderDataInputView.class

@@ -1,0 +1,23 @@
+#Thu Feb 25 15:17:42 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/DefaultFlinkTypeConverter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopReduceFunction.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopRecordInputFormat.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopMapFunction.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/HadoopTypeConverter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/example/HadoopMapredCompatWordCount.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopDataSource.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/DefaultHadoopTypeConverter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/HadoopReduceCombineFunction.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/wrapper/HadoopTupleUnwrappingIterator.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapreduce/example/WordCount.java=1454942573000
+configuration*?=65CEF725FDD9FB0DC45B7614D32C2497C506E4DE
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/example/WordCount.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/example/WordCountWithOutputFormat.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/HadoopFileOutputCommitter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableWrapper.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopRecordOutputFormat.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/HadoopDataSink.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/wrapper/HadoopOutputCollector.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/FlinkTypeConverter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableWrapperConverter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-staging/flink-hadoop-compatibility/src/main/java/org/apache/flink/hadoopcompatibility/mapred/record/datatypes/WritableComparableWrapper.java=1454942573000

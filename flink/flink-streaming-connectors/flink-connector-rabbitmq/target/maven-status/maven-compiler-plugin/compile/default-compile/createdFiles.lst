@@ -1,0 +1,4 @@
+org/apache/flink/streaming/connectors/rabbitmq/RMQTopology.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQTopology$StringToByteSerializer.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSource.class
+org/apache/flink/streaming/connectors/rabbitmq/RMQSink.class

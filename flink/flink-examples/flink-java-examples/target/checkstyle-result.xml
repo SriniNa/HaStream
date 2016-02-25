@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/misc/PiEstimation.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/misc/CollectionExecutionExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/PageRankBasic.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/util/EnumTrianglesDataTypes.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/util/EnumTrianglesData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/util/ConnectedComponentsData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/util/PageRankData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/EnumTrianglesOpt.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/EnumTrianglesBasic.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/TransitiveClosureNaive.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/graph/ConnectedComponents.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/clustering/KMeans.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/clustering/util/KMeansData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/clustering/util/KMeansDataGenerator.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/ml/util/LinearRegressionDataGenerator.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/ml/util/LinearRegressionData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/ml/LinearRegression.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/wordcount/WordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/wordcount/util/WordCountData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/wordcount/PojoExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/wordcount/WordCountMeta.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/distcp/FileCopyTaskInputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/distcp/FileCopyTask.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/distcp/DistCp.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/distcp/FileCopyTaskInputSplit.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/TPCHQuery3.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/util/WebLogData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/util/WebLogDataGenerator.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/TPCHQuery10.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/EmptyFieldsCountAccumulator.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/java/org/apache/flink/examples/java/relational/WebLogAnalysis.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/resources/log4j-test.properties">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/src/main/resources/log4j.properties">
+</file>
+</checkstyle>

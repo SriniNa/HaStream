@@ -1,0 +1,11 @@
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/CastingITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/ExpressionsITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/AggregationsITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/AsITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/PojoGroupingITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/scala/table/test/PageRankTableITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/StringExpressionsITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/FilterITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/JoinITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/SelectITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/test/java/org/apache/flink/api/java/table/test/GroupedAggregationsITCase.java

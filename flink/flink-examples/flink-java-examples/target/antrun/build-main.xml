@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-KMeans.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/KMeans.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-ConnectedComponents.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/ConnectedComponents.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-EnumTrianglesBasic.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/EnumTrianglesBasic.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-EnumTrianglesOpt.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/EnumTrianglesOpt.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-PageRankBasic.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/PageRankBasic.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-TransitiveClosure.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/TransitiveClosure.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-WebLogAnalysis.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/WebLogAnalysis.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-WordCount.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/WordCount.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-WordCountPOJO.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/WordCountPOJO.jar"/>
+  <copy file="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/flink-java-examples-0.10.2-DistCp.jar" tofile="/home/ubuntu/flink-0.10.2/flink-examples/flink-java-examples/target/DistCp.jar"/>
+</target>
+</project>

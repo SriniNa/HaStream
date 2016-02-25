@@ -1,0 +1,17 @@
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/GroupedProcessingTimeWindowExample.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/twitter/util/TwitterStreamData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/socket/SocketTextStreamWordCount.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/wordcount/WordCount.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/iteration/util/IterateExampleData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/WindowWordCount.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/util/TopSpeedWindowingExampleData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/join/util/WindowJoinData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/util/SessionWindowingData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/SessionWindowing.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/ml/util/IncrementalLearningSkeletonData.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/join/WindowJoin.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/twitter/TwitterStream.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/iteration/IterateExample.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/ml/IncrementalLearningSkeleton.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/wordcount/PojoExample.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/TopSpeedWindowing.java

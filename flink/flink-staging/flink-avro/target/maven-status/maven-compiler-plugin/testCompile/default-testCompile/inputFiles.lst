@@ -1,0 +1,12 @@
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/avro/AvroExternalJarProgramITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/generated/Fixed16.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/AvroRecordInputFormatTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/generated/User.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/avro/AvroOutputFormatITCase.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/generated/Address.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/generated/Colors.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/avro/EncoderDecoderTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/java/io/AvroInputFormatTypeExtractionTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/AvroPojoTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/AvroSplittableInputFormatTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/test/java/org/apache/flink/api/avro/testjar/AvroExternalJarProgram.java

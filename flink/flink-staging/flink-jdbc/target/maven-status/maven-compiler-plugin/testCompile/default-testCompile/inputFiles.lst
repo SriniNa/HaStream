@@ -1,0 +1,2 @@
+/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/test/java/org/apache/flink/api/java/io/jdbc/JDBCInputFormatTest.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/test/java/org/apache/flink/api/java/io/jdbc/JDBCOutputFormatTest.java

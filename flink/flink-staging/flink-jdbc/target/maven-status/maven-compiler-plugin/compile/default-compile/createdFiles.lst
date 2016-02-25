@@ -1,0 +1,7 @@
+org/apache/flink/api/java/io/jdbc/example/JDBCExample.class
+org/apache/flink/api/java/io/jdbc/JDBCOutputFormat$SupportedTypes.class
+org/apache/flink/api/java/io/jdbc/JDBCInputFormat.class
+org/apache/flink/api/java/io/jdbc/JDBCOutputFormat.class
+org/apache/flink/api/java/io/jdbc/JDBCOutputFormat$JDBCOutputFormatBuilder.class
+org/apache/flink/api/java/io/jdbc/JDBCInputFormat$JDBCInputFormatBuilder.class
+org/apache/flink/api/java/io/jdbc/JDBCOutputFormat$1.class

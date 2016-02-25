@@ -1,0 +1,6 @@
+org/apache/flink/streaming/connectors/elasticsearch/examples/ElasticsearchExample$1.class
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSink$1.class
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSink.class
+org/apache/flink/streaming/connectors/elasticsearch/examples/ElasticsearchExample.class
+org/apache/flink/streaming/connectors/elasticsearch/examples/ElasticsearchExample$2.class
+org/apache/flink/streaming/connectors/elasticsearch/IndexRequestBuilder.class

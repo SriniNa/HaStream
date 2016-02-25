@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/join/util/WindowJoinData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/join/WindowJoin.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/ml/IncrementalLearningSkeleton.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/ml/util/IncrementalLearningSkeletonData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/SessionWindowing.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/util/TopSpeedWindowingExampleData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/util/SessionWindowingData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/WindowWordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/TopSpeedWindowing.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/windowing/GroupedProcessingTimeWindowExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/twitter/TwitterStream.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/twitter/util/TwitterStreamData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/iteration/IterateExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/iteration/util/IterateExampleData.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/wordcount/WordCount.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/wordcount/PojoExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/main/java/org/apache/flink/streaming/examples/socket/SocketTextStreamWordCount.java">
+</file>
+</checkstyle>

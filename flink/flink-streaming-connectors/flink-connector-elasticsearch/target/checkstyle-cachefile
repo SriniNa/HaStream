@@ -1,0 +1,5 @@
+#Thu Feb 25 15:17:24 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-elasticsearch/src/main/java/org/apache/flink/streaming/connectors/elasticsearch/IndexRequestBuilder.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-elasticsearch/src/main/java/org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSink.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-elasticsearch/src/main/java/org/apache/flink/streaming/connectors/elasticsearch/examples/ElasticsearchExample.java=1454942573000
+configuration*?=ACAE81EBB9CAEC19AE2D576068D6C17151262E9C

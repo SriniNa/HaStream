@@ -1,0 +1,4 @@
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSinkITCase$TestIndexRequestBuilder.class
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSinkITCase.class
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSinkITCase$TestSourceFunction.class
+org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSinkITCase$1.class

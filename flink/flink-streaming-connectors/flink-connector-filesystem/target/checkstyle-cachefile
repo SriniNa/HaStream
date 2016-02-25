@@ -1,0 +1,11 @@
+#Thu Feb 25 15:17:31 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/SystemClock.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/RollingSink.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/StringWriter.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/Writer.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/Bucketer.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/NonRollingBucketer.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/Clock.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/SequenceFileWriter.java=1454942573000
+configuration*?=5B77981DCEA21489F65A71913E126A2403010C4A
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-filesystem/src/main/java/org/apache/flink/streaming/connectors/fs/DateTimeBucketer.java=1454942573000

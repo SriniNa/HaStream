@@ -1,0 +1,7 @@
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/avro/DataOutputEncoder.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/io/avro/example/AvroTypeExample.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/avro/FSDataInputStreamWrapper.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/io/avro/example/User.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/java/io/AvroInputFormat.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/java/io/AvroOutputFormat.java
+/home/ubuntu/flink-0.10.2/flink-staging/flink-avro/src/main/java/org/apache/flink/api/avro/DataInputDecoder.java

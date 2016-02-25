@@ -1,0 +1,19 @@
+#Thu Feb 25 15:24:06 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Media.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Size.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/io/SimpleTweetInputFormat.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Symbol.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/Entities.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Coordinates.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/URL.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/User/Users.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/io/TweetHandler.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/HashTags.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/Attributes.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/Places.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/entities/UserMention.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/places/BoundingBox.java=1454942572000
+configuration*?=937E4F8F832B3A1936C6655A375779BC1E8D4667
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Tweet.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/CurrentUserRetweet.java=1454942572000
+/home/ubuntu/flink-0.10.2/flink-contrib/flink-tweet-inputformat/src/main/java/org/apache/flink/contrib/tweetinputformat/model/tweet/Contributors.java=1454942572000

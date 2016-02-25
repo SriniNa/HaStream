@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/main/java/org/apache/flink/examples/java/JavaTableExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/main/java/org/apache/flink/api/java/table/package-info.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-table/src/main/java/org/apache/flink/api/table/package-info.java">
+</file>
+</checkstyle>

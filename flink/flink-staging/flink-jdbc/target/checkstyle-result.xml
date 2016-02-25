@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/main/java/org/apache/flink/api/java/io/jdbc/JDBCOutputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/main/java/org/apache/flink/api/java/io/jdbc/JDBCInputFormat.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/main/java/org/apache/flink/api/java/io/jdbc/example/JDBCExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-staging/flink-jdbc/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>

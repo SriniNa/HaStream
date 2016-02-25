@@ -1,0 +1,4 @@
+/home/ubuntu/flink-0.10.2/flink-streaming-scala/src/test/java/org/apache/flink/streaming/scala/api/TextOutputFormatITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-scala/src/test/java/org/apache/flink/streaming/scala/api/StatefulFunctionITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-scala/src/test/java/org/apache/flink/streaming/scala/api/SocketOutputFormatITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-scala/src/test/java/org/apache/flink/streaming/scala/api/CsvOutputFormatITCase.java

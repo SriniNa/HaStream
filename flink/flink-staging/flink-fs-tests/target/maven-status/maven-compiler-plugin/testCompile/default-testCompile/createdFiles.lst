@@ -1,0 +1,4 @@
+org/apache/flink/hdfstests/FileStateBackendTest.class
+org/apache/flink/hdfstests/HDFSTest$DopOneTestEnvironment$1.class
+org/apache/flink/hdfstests/HDFSTest$DopOneTestEnvironment.class
+org/apache/flink/hdfstests/HDFSTest.class

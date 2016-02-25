@@ -1,0 +1,7 @@
+org/apache/flink/runtime/webmonitor/testutils/HttpTestClient.class
+org/apache/flink/runtime/webmonitor/files/MimeTypesTest.class
+org/apache/flink/runtime/webmonitor/testutils/HttpTestClient$ClientHandler.class
+org/apache/flink/runtime/webmonitor/WebRuntimeMonitorITCase.class
+org/apache/flink/runtime/webmonitor/handlers/HandlerRedirectUtilsTest.class
+org/apache/flink/runtime/webmonitor/testutils/HttpTestClient$1.class
+org/apache/flink/runtime/webmonitor/testutils/HttpTestClient$SimpleHttpResponse.class

@@ -1,0 +1,9 @@
+#Thu Feb 25 15:16:52 UTC 2016
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterFilterSource.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterSource.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterStreaming.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterTopology.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/json/JSONParser.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterFilterSourceExample.java=1454942573000
+/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/json/JSONParseFlatMap.java=1454942573000
+configuration*?=E487407CE52CCE653E6610ECB1D4C4CD69DC389D

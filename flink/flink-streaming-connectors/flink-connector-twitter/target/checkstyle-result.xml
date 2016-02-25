@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/json/JSONParser.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/json/JSONParseFlatMap.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterStreaming.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterFilterSourceExample.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterSource.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterFilterSource.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/java/org/apache/flink/streaming/connectors/twitter/TwitterTopology.java">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/main/resources/twitter.properties">
+</file>
+<file name="/home/ubuntu/flink-0.10.2/flink-streaming-connectors/flink-connector-twitter/src/test/resources/log4j-test.properties">
+</file>
+</checkstyle>

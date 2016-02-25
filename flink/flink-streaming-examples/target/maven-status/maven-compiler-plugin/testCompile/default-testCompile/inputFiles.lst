@@ -1,0 +1,13 @@
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/windowing/WindowWordCountITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleScalaPrograms/windowing/TopSpeedWindowingExampleITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/wordcount/PojoExampleITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/wordcount/WordCountITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleScalaPrograms/join/WindowJoinITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/windowing/TopSpeedWindowingExampleITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/socket/SocketTextStreamWordCountITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/windowing/SessionWindowingITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/iteration/IterateExampleITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/twitter/TwitterStreamITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/ml/IncrementalLearningSkeletonITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleJavaPrograms/join/WindowJoinITCase.java
+/home/ubuntu/flink-0.10.2/flink-streaming-examples/src/test/java/org/apache/flink/streaming/test/exampleScalaPrograms/socket/SocketTextStreamWordCountITCase.java

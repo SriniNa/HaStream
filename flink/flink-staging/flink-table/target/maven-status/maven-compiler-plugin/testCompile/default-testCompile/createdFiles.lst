@@ -1,0 +1,12 @@
+org/apache/flink/api/java/table/test/SelectITCase.class
+org/apache/flink/api/java/table/test/PojoGroupingITCase$MyPojo.class
+org/apache/flink/api/java/table/test/ExpressionsITCase.class
+org/apache/flink/api/java/table/test/GroupedAggregationsITCase.class
+org/apache/flink/api/java/table/test/CastingITCase.class
+org/apache/flink/api/java/table/test/AggregationsITCase.class
+org/apache/flink/api/java/table/test/JoinITCase.class
+org/apache/flink/api/scala/table/test/PageRankTableITCase.class
+org/apache/flink/api/java/table/test/StringExpressionsITCase.class
+org/apache/flink/api/java/table/test/AsITCase.class
+org/apache/flink/api/java/table/test/PojoGroupingITCase.class
+org/apache/flink/api/java/table/test/FilterITCase.class
