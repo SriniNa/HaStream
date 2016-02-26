@@ -22,8 +22,12 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Enumeration;
+import java.util.Collections;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.net.NetworkInterface;
+import java.net.SocketException;
 
 import org.apache.flink.util.OperatingSystem;
 import org.slf4j.Logger;
@@ -35,11 +39,13 @@ import org.slf4j.LoggerFactory;
 public class Hardware {
 
 	private static final Logger LOG = LoggerFactory.getLogger(Hardware.class);
-	
+
 	private static final String LINUX_MEMORY_INFO_PATH = "/proc/meminfo";
 
+	private static final String LINUX_NET_IFACE_PATH = "/sys/class/net/";
+
 	private static final Pattern LINUX_MEMORY_REGEX = Pattern.compile("^MemTotal:\\s*(\\d+)\\s+kB$");
-	
+
 
 	
 	/**
@@ -253,6 +259,85 @@ public class Hardware {
 			}
 		}
 	}
+
+
+	/**
+	 * Returns the total network bandwidth available on all eth network interfaces.
+	 * 
+	 * @return the total bandwidth available in Mbps.
+	 * 
+	 */
+	public static long gettotalNetworkBandwidth () {
+		switch (OperatingSystem.getCurrentOperatingSystem()) {
+			case LINUX:
+				return getTotalNetworkBandwidthForLinux();
+
+			case UNKNOWN:
+				LOG.error("Cannot determine the network bandwidth for unknown operating system");
+				return -1;
+				
+			default:
+				LOG.error("Unrecognized OS: " + OperatingSystem.getCurrentOperatingSystem());
+				return -1;
+		}
+	}
+
+
+
+	/**
+	 * Returns the total network bandwidth available on Linux based OS.
+	 * 
+	 * @return the total bandwidth available in Mbps.
+	 * 
+	 */
+	public static long getTotalNetworkBandwidthForLinux () {
+		Enumeration<NetworkInterface> nets;
+
+		try {
+			nets = NetworkInterface.getNetworkInterfaces();
+		}
+		catch (SocketException s) {
+			LOG.error("Cannot determine total Network Bandwidth: " + s.getMessage(), s);
+			return -1;
+		}
+		catch (Throwable t) {
+			LOG.error("Cannot determine total Network Bandwidth: " + t.getMessage(), t);
+			return -1;
+		}
+		long totalBandwidth = 0;
+
+		for (NetworkInterface netint : Collections.list(nets)) {
+			String netName = netint.getName ();
+			if (netName.startsWith ("eth")) {
+				String speedFile = LINUX_NET_IFACE_PATH + netName + "/speed";
+				BufferedReader bi = null;
+
+				try {
+					bi = new BufferedReader(new FileReader(speedFile));
+					String speedLine = bi.readLine ();
+
+					if (speedLine != null) {
+						totalBandwidth = totalBandwidth + Long.parseLong (speedLine);
+					}
+				}
+				catch (Throwable t) {
+					LOG.error("Cannot determine total Network Bandwidth: " + t.getMessage(), t);
+					return -1;
+				}
+				finally {
+					// Make sure we always close the file handle
+					try {
+						if (bi != null) {
+							bi.close();
+						}
+					}
+					catch (Throwable t) {}
+				}
+			}
+		}
+		return totalBandwidth;
+	}
+
 	
 	// --------------------------------------------------------------------------------------------
 	
