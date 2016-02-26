@@ -39,11 +39,32 @@ public final class HardwareDescription implements Serializable {
 	/** The size of the memory managed by the system for caching, hashing, sorting, ... */
 	private long sizeOfManagedMemory;
 
+	/** The total network bandwidth available on all network ifaces of this node. */
+	private long totalNetworkBandwidth;
 	
 	/**
 	 * Public default constructor used for serialization process.
 	 */
 	public HardwareDescription() {}
+
+
+	/**
+	 * Constructs a new hardware description object.
+	 * 
+	 * @param numberOfCPUCores The number of CPU cores available to the JVM on the compute node. 
+	 * @param sizeOfPhysicalMemory The size of physical memory in bytes available on the compute node.
+	 * @param sizeOfJvmHeap The size of the JVM heap memory.
+	 * @param sizeOfManagedMemory The size of the memory managed by the system for caching, hashing, sorting, ...
+	 * @param totalNetworkBandwidth The total network bandwidth available for the node on all physical interfaces.
+	 */
+	public HardwareDescription(int numberOfCPUCores, long sizeOfPhysicalMemory, long sizeOfJvmHeap, long sizeOfManagedMemory, long totalNetworkBandwidth) {
+		this.numberOfCPUCores = numberOfCPUCores;
+		this.sizeOfPhysicalMemory = sizeOfPhysicalMemory;
+		this.sizeOfJvmHeap = sizeOfJvmHeap;
+		this.sizeOfManagedMemory = sizeOfManagedMemory;
+		this.totalNetworkBandwidth = totalNetworkBandwidth;
+	}
+
 
 	/**
 	 * Constructs a new hardware description object.
@@ -54,11 +75,9 @@ public final class HardwareDescription implements Serializable {
 	 * @param sizeOfManagedMemory The size of the memory managed by the system for caching, hashing, sorting, ...
 	 */
 	public HardwareDescription(int numberOfCPUCores, long sizeOfPhysicalMemory, long sizeOfJvmHeap, long sizeOfManagedMemory) {
-		this.numberOfCPUCores = numberOfCPUCores;
-		this.sizeOfPhysicalMemory = sizeOfPhysicalMemory;
-		this.sizeOfJvmHeap = sizeOfJvmHeap;
-		this.sizeOfManagedMemory = sizeOfManagedMemory;
+		this(numberOfCPUCores, sizeOfPhysicalMemory, sizeOfJvmHeap, sizeOfManagedMemory, (long) 1000);
 	}
+
 
 	/**
 	 * Returns the number of CPU cores available to the JVM on the compute node.
@@ -114,7 +133,8 @@ public final class HardwareDescription implements Serializable {
 		final int numberOfCPUCores = Hardware.getNumberCPUCores();
 		final long sizeOfJvmHeap = Runtime.getRuntime().maxMemory();
 		final long sizeOfPhysicalMemory = Hardware.getSizeOfPhysicalMemory();
+		final long totalNetworkBandwidth = Hardware.getTotalNetworkBandwidth();
 		
-		return new HardwareDescription(numberOfCPUCores, sizeOfPhysicalMemory, sizeOfJvmHeap, managedMemory);
+		return new HardwareDescription(numberOfCPUCores, sizeOfPhysicalMemory, sizeOfJvmHeap, managedMemory, totalNetworkBandwidth);
 	}
 }

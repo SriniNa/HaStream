@@ -267,7 +267,7 @@ public class Hardware {
 	 * @return the total bandwidth available in Mbps.
 	 * 
 	 */
-	public static long gettotalNetworkBandwidth () {
+	public static long getTotalNetworkBandwidth () {
 		switch (OperatingSystem.getCurrentOperatingSystem()) {
 			case LINUX:
 				return getTotalNetworkBandwidthForLinux();
